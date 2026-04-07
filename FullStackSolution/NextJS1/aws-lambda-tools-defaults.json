@@ -1,0 +1,21 @@
+{
+  "Information": {
+    "Description": "NextJS1 ASP.NET Core API running on AWS Lambda"
+  },
+
+  "profile": "default",
+  "region": "us-east-1",
+
+  "configuration": "Release",
+  "framework": "net8.0",
+
+  "function-runtime": "dotnet8",
+  "function-memory-size": 1024,
+  "function-timeout": 30,
+
+  "function-handler": "NextJS1::NextJS1.LambdaEntryPoint::FunctionHandlerAsync",
+
+  "package-type": "Zip",
+  "s3-bucket": "your-deployment-bucket-name",
+  "s3-prefix": "lambda-deployments/"
+}

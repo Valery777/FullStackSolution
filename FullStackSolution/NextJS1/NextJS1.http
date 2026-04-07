@@ -1,0 +1,6 @@
+@NextJS1_HostAddress = http://localhost:5145
+
+GET {{NextJS1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

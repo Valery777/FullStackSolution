@@ -1,0 +1,2220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NextJS\\NextJS1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\constants.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\shop\\ssg\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\shop\\isr\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\shop\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\next.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\productcard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\middleware.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\(home)\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\llm\\chat-assistant\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\react19menu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\webapi\\webapimenu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\webapi\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\shop\\shopmenu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\llm\\llmmenu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\mlmenu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\sentiment-analyzer\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\learning-assistant\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\(home)\\tweet.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\config\\pages-class-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\config\\pages.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\webapi\\products-table-drawer\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\(home)\\tweetform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\server-action\\post-tweet.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\test\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\shared\\data\\tweet.data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\product.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\llm\\style-transformer\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\tests\\unittest\\controllers\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:tests\\unittest\\controllers\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\persistence\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\application\\common\\getproductswebapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:application\\common\\getproductswebapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\sentimentanalyzer\\sentimentinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\sentimentanalyzer\\sentimentinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\openai\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\openai\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\textclassification\\userquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\textclassification\\userquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\textclassification\\explanationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\textclassification\\explanationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\textclassification\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\textclassification\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\textclassification\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\textclassification\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\textclassification\\textclassificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\textclassification\\textclassificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\sentimentanalyzer\\sentimentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\sentimentanalyzer\\sentimentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\housingprediction\\housingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\housingprediction\\housingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\housingprediction\\housingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\housingprediction\\housingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\housingprediction\\featurecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\housingprediction\\featurecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\housingprediction\\explanationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\housingprediction\\explanationbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\llm\\styletransformer\\stylerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\llm\\styletransformer\\stylerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\llm\\styletransformer\\styleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\llm\\styletransformer\\styleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\llm\\localllmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\llm\\localllmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\application\\common\\datetimeextansions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:application\\common\\datetimeextansions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\application\\common\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:application\\common\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\application\\common\\llmdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:application\\common\\llmdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\long-submit.action.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\auth\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\application\\common\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:application\\common\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\sentimentanalyzer\\sentimentbooleanlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\sentimentanalyzer\\sentimentbooleanlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\sentimentanalyzer\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\sentimentanalyzer\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\sentimentanalyzer\\sentiment_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\sentimentanalyzer\\sentiment_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\sentimentanalyzer\\usertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\sentimentanalyzer\\usertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\application\\common\\localsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:application\\common\\localsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valeri\\AppData\\Local\\Temp\\tmp5E1E.tmp.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpA624.tmp.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpC197.tmp.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\nextjs1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:nextjs1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\nextjs1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:nextjs1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\useformstatus\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\actions\\product.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\_server\\actions.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\shared\\types\\tweet.interface.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\_server\\postwrapper.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\_server\\post.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\_server\\usepost.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\submitbutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\submit.action.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\long-submit.action.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\housingpredictprice.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\llm\\housingchatbot.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\menuitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\menu.data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\menu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\llm\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\llm\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\webapi\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\shop\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\profilebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\components\\profilefake.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\textclassification\\training_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\textclassification\\training_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\ml.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\ml\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\infrastructure\\api\\ml\\housingprediction\\housing.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:infrastructure\\api\\ml\\housingprediction\\housing.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\serializationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:serializationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\lambdaentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:lambdaentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\(public)\\react19\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpFCFD.tmp.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\postcss.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpAF6.tmp.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpA7C6.tmp.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\src\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\node_modules\\braces\\lib\\constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\upgradelog2.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:upgradelog2.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\upgradelog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:upgradelog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|c:\\nextjs\\nextjs1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A950E9-D87A-4FDA-893A-19240C6BFE51}|NextJS1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\submit.action.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\webapi.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\middleware.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0916398-7D1D-4E91-D799-7C3F1458460B}|..\\NodeClient\\NextClientApp.esproj|c:\\nextjs\\nodeclient\\nextjs-client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\StyleTransformer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\chat-open-ai\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\HousingPredictPrice.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\learning\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\housing-predict-price\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\ExploreMenu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\profile-fakeMenu.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\style-transformer\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\sqltranslator\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\housing-chatbot\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Chat.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\HousingChatbot.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Explore.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileFake.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileButton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|FullStackSolution{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\NextJS\\Repository\\README.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\page.tsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T18:06:43.432Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "constants.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\constants.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\constants.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\constants.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\constants.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T17:38:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "middleware.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\middleware.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\middleware.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\middleware.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\middleware.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T08:02:32.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "next.config.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\next.config.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\next.config.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\next.config.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\next.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T08:24:47.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\isr\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\isr\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\isr\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\isr\\page.tsx",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-16T15:06:39.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ssg\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ssg\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ssg\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ssg\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T11:42:23.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T08:24:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\NextJS\\NextJS1\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T09:28:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwGMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:12:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-28T09:55:30.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCard.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\ProductCard.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\ProductCard.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\ProductCard.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\ProductCard.tsx",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T17:43:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\page.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T09:00:19.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Header.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\Header.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\Header.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\Header.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\Header.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T19:56:33.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\chat-assistant\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\chat-assistant\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\chat-assistant\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\chat-assistant\\page.tsx",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswFoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:06:09.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\NextJS\\NextJS1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-29T13:58:31.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAKkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:26:52.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\globals.css",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\globals.css",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\globals.css",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T08:35:33.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "React19Menu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\React19Menu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\React19Menu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\React19Menu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\React19Menu.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-01T10:54:55.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebapiMenu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\WebapiMenu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\WebapiMenu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\WebapiMenu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\WebapiMenu.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-21T17:49:52.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-10T11:12:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShopMenu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ShopMenu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ShopMenu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ShopMenu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\ShopMenu.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T11:10:34.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LlmMenu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\LlmMenu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\LlmMenu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\LlmMenu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\LlmMenu.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T13:27:47.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MlMenu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\MlMenu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\MlMenu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\MlMenu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\MlMenu.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T13:22:00.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\sentiment-analyzer\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\sentiment-analyzer\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\sentiment-analyzer\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\sentiment-analyzer\\page.tsx",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:27:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\learning-assistant\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\learning-assistant\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\learning-assistant\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\learning-assistant\\page.tsx",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-19T14:14:42.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tweet.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\Tweet.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\Tweet.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\Tweet.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\Tweet.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T09:35:37.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "pages-class-config.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\config\\pages-class-config.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\config\\pages-class-config.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\config\\pages-class-config.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\config\\pages-class-config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T10:11:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "pages.config.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\config\\pages.config.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\config\\pages.config.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\config\\pages.config.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\config\\pages.config.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-29T08:36:12.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\products-table-drawer\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\products-table-drawer\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\products-table-drawer\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\products-table-drawer\\page.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-21T18:34:43.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TweetForm.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\TweetForm.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\TweetForm.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\TweetForm.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\(home)\\TweetForm.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T07:58:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "post-tweet.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\server-action\\post-tweet.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\server-action\\post-tweet.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\server-action\\post-tweet.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\server-action\\post-tweet.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T07:54:03.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\test\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\test\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\test\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\test\\page.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T05:55:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tweet.data.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\shared\\data\\tweet.data.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\shared\\data\\tweet.data.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\shared\\data\\tweet.data.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\shared\\data\\tweet.data.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T18:56:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "product.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\product.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\product.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\product.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\product.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T08:37:10.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\NextJS\\Repository\\README.md",
+              "RelativeDocumentMoniker": "..\\Repository\\README.md",
+              "ToolTip": "C:\\NextJS\\Repository\\README.md",
+              "RelativeToolTip": "..\\Repository\\README.md",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-29T14:08:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\README.md",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\README.md",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\README.md",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-29T10:10:48.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\style-transformer\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\style-transformer\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\style-transformer\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\style-transformer\\page.tsx",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:09:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SentimentInput.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentInput.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentInput.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentInput.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:39:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\tests\\UnitTest\\Controllers\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTest\\Controllers\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\tests\\UnitTest\\Controllers\\ProductsControllerTests.cs",
+              "RelativeToolTip": "tests\\UnitTest\\Controllers\\ProductsControllerTests.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswJYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T13:04:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\Persistence\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext .cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\Persistence\\AppDbContext .cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:28:11.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\openAI\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\openAI\\ChatRequest.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\openAI\\ChatRequest.cs",
+              "RelativeToolTip": "Infrastructure\\api\\openAI\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:41:05.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserQuestion.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\UserQuestion.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\TextClassification\\UserQuestion.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\UserQuestion.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\TextClassification\\UserQuestion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:27:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetProductsWebApiTest.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Application\\Common\\GetProductsWebApiTest.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\GetProductsWebApiTest.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Application\\Common\\GetProductsWebApiTest.cs",
+              "RelativeToolTip": "Application\\Common\\GetProductsWebApiTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:11:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ExplanationBuilder.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\ExplanationBuilder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\TextClassification\\ExplanationBuilder.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\ExplanationBuilder.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\TextClassification\\ExplanationBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:46:40.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InputData.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\InputData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\TextClassification\\InputData.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\InputData.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\TextClassification\\InputData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:35:00.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\Prediction.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\TextClassification\\Prediction.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\Prediction.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\TextClassification\\Prediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:36:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TextClassificationModel.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\TextClassificationModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\TextClassification\\TextClassificationModel.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\TextClassificationModel.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\TextClassification\\TextClassificationModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:01:37.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SentimentModel.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentModel.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentModel.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:17:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HousingModel.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\HousingModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\HousingPrediction\\HousingModel.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\HousingModel.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\HousingPrediction\\HousingModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:14:01.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HousingData.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\HousingData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\HousingPrediction\\HousingData.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\HousingData.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\HousingPrediction\\HousingData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:13:29.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FeatureContribution.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\FeatureContribution.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\HousingPrediction\\FeatureContribution.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\FeatureContribution.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\HousingPrediction\\FeatureContribution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:46:07.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ExplanationBuilder.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\ExplanationBuilder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\HousingPrediction\\ExplanationBuilder.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\ExplanationBuilder.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\HousingPrediction\\ExplanationBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:45:00.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StyleRequest.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\llm\\StyleTransformer\\StyleRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\llm\\StyleTransformer\\StyleRequest.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\llm\\StyleTransformer\\StyleRequest.cs",
+              "RelativeToolTip": "Infrastructure\\api\\llm\\StyleTransformer\\StyleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:22:15.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StyleResponse.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\llm\\StyleTransformer\\StyleResponse.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\llm\\StyleTransformer\\StyleResponse.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\llm\\StyleTransformer\\StyleResponse.cs",
+              "RelativeToolTip": "Infrastructure\\api\\llm\\StyleTransformer\\StyleResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T08:23:36.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LocalLlmClient.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\llm\\LocalLlmClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\llm\\LocalLlmClient.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\llm\\LocalLlmClient.cs",
+              "RelativeToolTip": "Infrastructure\\api\\llm\\LocalLlmClient.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:14:02.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:36:12.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:48:57.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:22:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:43:01.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DateTimeExtansions.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Application\\Common\\DateTimeExtansions.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DateTimeExtansions.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Application\\Common\\DateTimeExtansions.cs",
+              "RelativeToolTip": "Application\\Common\\DateTimeExtansions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:05:34.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LlmDtos.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Application\\Common\\LlmDtos.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\LlmDtos.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Application\\Common\\LlmDtos.cs",
+              "RelativeToolTip": "Application\\Common\\LlmDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:15:59.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Application\\Common\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\ProductDto.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Application\\Common\\ProductDto.cs",
+              "RelativeToolTip": "Application\\Common\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:57:24.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "long-submit.action.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\long-submit.action.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\long-submit.action.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\long-submit.action.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\long-submit.action.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-04T16:24:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\NextJS\\NextJS1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T15:11:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:45:27.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "Infrastructure\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:36:33.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Application\\Common\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Application\\Common\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:39:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:43:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SentimentPrediction.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentPrediction.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentPrediction.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentPrediction.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:41:28.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SentimentBooleanLabel.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentBooleanLabel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentBooleanLabel.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentBooleanLabel.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\SentimentAnalyzer\\SentimentBooleanLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:42:07.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "sentiment_data.csv",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\sentiment_data.csv",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\SentimentAnalyzer\\sentiment_data.csv",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\sentiment_data.csv",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\SentimentAnalyzer\\sentiment_data.csv",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv6kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-22T11:13:06.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UserText.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\UserText.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\SentimentAnalyzer\\UserText.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\SentimentAnalyzer\\UserText.cs",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\SentimentAnalyzer\\UserText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:24:17.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LocalSettings.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Application\\Common\\LocalSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\LocalSettings.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Application\\Common\\LocalSettings.cs",
+              "RelativeToolTip": "Application\\Common\\LocalSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:45:55.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "tmpC197.tmp.tsx",
+              "DocumentMoniker": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpC197.tmp.tsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpC197.tmp.tsx",
+              "ToolTip": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpC197.tmp.tsx",
+              "RelativeToolTip": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpC197.tmp.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-24T16:11:30.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "tmp5E1E.tmp.tsx",
+              "DocumentMoniker": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmp5E1E.tmp.tsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmp5E1E.tmp.tsx",
+              "ToolTip": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmp5E1E.tmp.tsx",
+              "RelativeToolTip": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmp5E1E.tmp.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-24T16:11:03.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "tmpA624.tmp.ts",
+              "DocumentMoniker": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpA624.tmp.ts",
+              "RelativeDocumentMoniker": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpA624.tmp.ts",
+              "ToolTip": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpA624.tmp.ts",
+              "RelativeToolTip": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpA624.tmp.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-24T16:11:41.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "NextJS1.http",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\NextJS1.http",
+              "RelativeDocumentMoniker": "NextJS1.http",
+              "ToolTip": "C:\\NextJS\\NextJS1\\NextJS1.http",
+              "RelativeToolTip": "NextJS1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-08T11:16:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "NextJS1.csproj",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\NextJS1.csproj",
+              "RelativeDocumentMoniker": "NextJS1.csproj",
+              "ToolTip": "C:\\NextJS\\NextJS1\\NextJS1.csproj",
+              "RelativeToolTip": "NextJS1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgv0kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T11:32:39.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useformstatus\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useformstatus\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useformstatus\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useformstatus\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-04T16:44:36.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "product.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\actions\\product.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\actions\\product.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\actions\\product.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\actions\\product.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-24T14:18:30.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "actions.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\actions.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\actions.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\actions.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\actions.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-24T14:07:12.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\layout.tsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T08:24:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SubmitButton.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\SubmitButton.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\SubmitButton.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\SubmitButton.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\SubmitButton.tsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-04T17:43:07.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "tweet.interface.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\shared\\types\\tweet.interface.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\shared\\types\\tweet.interface.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\shared\\types\\tweet.interface.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\shared\\types\\tweet.interface.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-27T09:41:45.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "long-submit.action.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\long-submit.action.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\long-submit.action.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\long-submit.action.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\long-submit.action.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-23T11:37:54.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "usePost.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\usePost.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\usePost.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\usePost.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\usePost.ts",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-23T12:50:01.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PostWrapper.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\PostWrapper.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\PostWrapper.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\PostWrapper.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\PostWrapper.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-23T13:54:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Post.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\Post.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\Post.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\_server\\Post.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\_server\\Post.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-04T18:08:56.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "submit.action.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\submit.action.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\submit.action.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\submit.action.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\actions\\submit.action.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-04T16:22:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\useactionspage\\page.tsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-03T18:10:22.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "profile.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\profile.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\profile.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\profile.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\profile.tsx",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T07:03:05.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\u\\[username]\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-23T10:01:53.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "MenuItem.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\MenuItem.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\MenuItem.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\MenuItem.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\MenuItem.tsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T05:57:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "HousingPredictPrice.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\HousingPredictPrice.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\HousingPredictPrice.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\HousingPredictPrice.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\HousingPredictPrice.tsx",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-19T14:07:59.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HousingChatbot.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\HousingChatbot.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\HousingChatbot.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\HousingChatbot.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\HousingChatbot.tsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:30:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Menu.data.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.data.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.data.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.data.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.data.ts",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T05:56:24.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:29:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Menu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\Menu.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-29T08:29:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAADQVAAAAAAAAAADgv0QVAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-22T10:50:40.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\llm\\page.tsx",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:53:36.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\shop\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T11:03:34.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-21T17:50:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ProfileButton.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileButton.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileButton.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileButton.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileButton.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-21T16:54:01.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ProfileFake.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileFake.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileFake.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileFake.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\components\\ProfileFake.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T13:30:44.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "training_data.csv",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\training_data.csv",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\TextClassification\\training_data.csv",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\TextClassification\\training_data.csv",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\TextClassification\\training_data.csv",
+              "ViewState": "AgIAAMIBAAAAAAAAAABRwNcBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-17T12:14:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ML.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\ML.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\ML.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\ML.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\ML.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:23:43.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\page.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T13:16:22.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\ml\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-18T14:00:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T05:23:55.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "StyleTransformer.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\StyleTransformer.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\StyleTransformer.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\StyleTransformer.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\StyleTransformer.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-13T12:58:24.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\chat-open-ai\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\chat-open-ai\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\chat-open-ai\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\chat-open-ai\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:15:49.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "HousingPredictPrice.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\HousingPredictPrice.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\HousingPredictPrice.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\HousingPredictPrice.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\HousingPredictPrice.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-11T13:38:51.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\learning\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\learning\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\learning\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\learning\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-16T14:37:36.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\housing-predict-price\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\housing-predict-price\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\housing-predict-price\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\housing-predict-price\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:12:45.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "housing.csv",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\housing.csv",
+              "RelativeDocumentMoniker": "Infrastructure\\api\\ml\\HousingPrediction\\housing.csv",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Infrastructure\\api\\ml\\HousingPrediction\\housing.csv",
+              "RelativeToolTip": "Infrastructure\\api\\ml\\HousingPrediction\\housing.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-12T10:55:32.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "ExploreMenu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\ExploreMenu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\ExploreMenu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\ExploreMenu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\ExploreMenu.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:22:20.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "profile-fakeMenu.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\profile-fakeMenu.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\profile-fakeMenu.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\profile-fakeMenu.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\profile-fakeMenu.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:28:51.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\style-transformer\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\style-transformer\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\style-transformer\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\style-transformer\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:18:51.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\sqltranslator\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\sqltranslator\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\sqltranslator\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\sqltranslator\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-16T14:41:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\layout.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T13:13:05.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\housing-chatbot\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\housing-chatbot\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\housing-chatbot\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\housing-chatbot\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:24:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "SerializationContext.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\SerializationContext.cs",
+              "RelativeDocumentMoniker": "SerializationContext.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\SerializationContext.cs",
+              "RelativeToolTip": "SerializationContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:44:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "LambdaEntryPoint.cs",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\LambdaEntryPoint.cs",
+              "RelativeDocumentMoniker": "LambdaEntryPoint.cs",
+              "ToolTip": "C:\\NextJS\\NextJS1\\LambdaEntryPoint.cs",
+              "RelativeToolTip": "LambdaEntryPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:55:00.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "Chat.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Chat.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Chat.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Chat.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Chat.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-11T11:09:56.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\page.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\page.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\page.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-29T18:47:41.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\layout.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T09:41:57.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "HousingChatbot.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\HousingChatbot.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\HousingChatbot.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\HousingChatbot.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\HousingChatbot.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-13T11:07:56.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\layout.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\layout.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\layout.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-01T10:57:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "tmpFCFD.tmp.tsx",
+              "DocumentMoniker": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpFCFD.tmp.tsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpFCFD.tmp.tsx",
+              "ToolTip": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpFCFD.tmp.tsx",
+              "RelativeToolTip": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpFCFD.tmp.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-15T10:29:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "Explore.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Explore.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Explore.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Explore.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\explore\\Explore.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-30T05:26:40.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "postcss.config.mjs",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\postcss.config.mjs",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\postcss.config.mjs",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\postcss.config.mjs",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\postcss.config.mjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-27T08:35:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "tmpAF6.tmp.tsx",
+              "DocumentMoniker": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpAF6.tmp.tsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpAF6.tmp.tsx",
+              "ToolTip": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpAF6.tmp.tsx",
+              "RelativeToolTip": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpAF6.tmp.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-12T15:51:14.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "ProfileFake.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileFake.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileFake.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileFake.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileFake.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-29T19:05:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "ProfileButton.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileButton.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileButton.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileButton.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\profile-fake\\ProfileButton.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T09:13:56.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "tmpA7C6.tmp.tsx",
+              "DocumentMoniker": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpA7C6.tmp.tsx",
+              "RelativeDocumentMoniker": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpA7C6.tmp.tsx",
+              "ToolTip": "C:\\Users\\valeri\\AppData\\Local\\Temp\\tmpA7C6.tmp.tsx",
+              "RelativeToolTip": "..\\..\\Users\\valeri\\AppData\\Local\\Temp\\tmpA7C6.tmp.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-11T13:42:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "not-found.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\not-found.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\not-found.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\not-found.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\not-found.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-10T13:59:07.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "constants.js",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\node_modules\\braces\\lib\\constants.js",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\node_modules\\braces\\lib\\constants.js",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\node_modules\\braces\\lib\\constants.js",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\node_modules\\braces\\lib\\constants.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAOBvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-09T11:29:29.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "UpgradeLog.htm",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\UpgradeLog.htm",
+              "RelativeDocumentMoniker": "UpgradeLog.htm",
+              "ToolTip": "C:\\NextJS\\NextJS1\\UpgradeLog.htm",
+              "RelativeToolTip": "UpgradeLog.htm",
+              "ViewState": "AgIAACAAAAAAAAAAAMB9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-08T11:16:23.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "UpgradeLog2.htm",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\UpgradeLog2.htm",
+              "RelativeDocumentMoniker": "UpgradeLog2.htm",
+              "ToolTip": "C:\\NextJS\\NextJS1\\UpgradeLog2.htm",
+              "RelativeToolTip": "UpgradeLog2.htm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-08T11:16:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\NextJS\\NextJS1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\NextJS\\NextJS1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAOBvwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T09:28:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\.vscode\\launch.json",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\.vscode\\launch.json",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBdwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T14:01:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "submit.action.ts",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\submit.action.ts",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\submit.action.ts",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\submit.action.ts",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\react19\\home\\submit.action.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-01T11:11:20.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "webapi.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\webapi.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\webapi.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\webapi.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\app\\(public)\\webapi\\webapi.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T09:32:11.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "middleware.tsx",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\middleware.tsx",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\src\\middleware.tsx",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\src\\middleware.tsx",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\src\\middleware.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-07-31T08:01:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\NextJS\\NodeClient\\nextjs-client\\tsconfig.json",
+              "RelativeDocumentMoniker": "..\\NodeClient\\nextjs-client\\tsconfig.json",
+              "ToolTip": "C:\\NextJS\\NodeClient\\nextjs-client\\tsconfig.json",
+              "RelativeToolTip": "..\\NodeClient\\nextjs-client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T08:27:07.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
